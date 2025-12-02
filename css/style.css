@@ -10,7 +10,7 @@ html {
     position: relative;
     margin: 50px auto;
     padding: 20px 50px;
-    border-radius: 10px;
+    border: 10px double #fff;
 }
 
 .bold {
@@ -47,8 +47,8 @@ html {
 .biography-container {
     padding: 25px 0;
     margin: 25px 0;
-    border-top: 1px dashed #ddd;
-    border-bottom: 1px dashed #ddd;
+    border-top: 4px double #ddd;
+    border-bottom: 4px double #ddd;
 }
 
 /* Quotes */
@@ -56,7 +56,7 @@ html {
 .quotes-container {
     background-color: #000;
     padding: 30px;
-    border-radius: 10px;
+    border: 10px double #ddd;
 }
 }
 
@@ -74,8 +74,8 @@ html {
 .curiosities-container {
     padding: 25px 0;
     margin: 25px 0;
-    border-top: 1px dashed #ddd;
-    border-bottom: 1px dashed #ddd;
+    border-top: 4px double #ddd;
+    border-bottom: 4px double #ddd;
 }
 
 .curiosities-container li {
